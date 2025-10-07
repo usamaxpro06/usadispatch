@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:17:42	69/69	---MCZ	200	added ('OK')	text/plain	etag:%221095-1759382447;gz%22	https://treadstonebrokerage.online/robots.txt		(from )
+11:17:43	167749/167749	---MCZ	200	added ('OK')	text/html	etag:%221086-1759351081;gz%22	https://treadstonebrokerage.online/carrier-agreement/	C:/My%20Web%20Sites/usa%20dispatch/treadstonebrokerage.online/carrier-agreement/index.html	(from )
